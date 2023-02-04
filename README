@@ -1,0 +1,9 @@
+Build:
+```
+podman build --tag zero2prod --file Containerfile .
+```
+
+Run:
+```bash
+podman run zero2prod
+```
